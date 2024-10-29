@@ -1,6 +1,6 @@
-{
+    {
   "Name": "High Noon Havoc",
-  "Version": 1728509769,
+  "Version": 1730234768,
   "MaxPerkRepetition": 1,
   "GlobalNotes": "",
   "Tiers": [
@@ -47,6 +47,7 @@
         "83",
         "86",
         "90",
+        "96",
         "98",
         "100",
         "102",
@@ -3502,3 +3503,4 @@
     }
   ]
 }
+    
