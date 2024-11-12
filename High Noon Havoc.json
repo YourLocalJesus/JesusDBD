@@ -1,6 +1,6 @@
     {
   "Name": "High Noon Havoc",
-  "Version": 1730865461,
+  "Version": 1731389748,
   "MaxPerkRepetition": 1,
   "GlobalNotes": "",
   "Tiers": [
@@ -638,7 +638,6 @@
         "120",
         "121",
         "122",
-        "125",
         "126",
         "127",
         "128",
@@ -2882,7 +2881,9 @@
       "AntiFacecampPermitted": false,
       "KillerIndvPerkBans": [],
       "KillerComboPerkBans": [],
-      "SurvivorIndvPerkBans": [],
+      "SurvivorIndvPerkBans": [
+        "97"
+      ],
       "SurvivorComboPerkBans": [],
       "SurvivorWhitelistedPerks": [],
       "SurvivorWhitelistedComboPerks": [],
